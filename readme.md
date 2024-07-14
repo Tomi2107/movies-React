@@ -26,7 +26,7 @@ Deploy en githubpage
 ----
 configurar vite.config
 
-base: /deploy/ -> nombre del brach repo"
+base: /deploy/ -> nombre del brach repo" en mi caso "/movies-React/"
 
 -npm run build
 --
